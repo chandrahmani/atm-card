@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-node_modules
-=======
 # Logs
 logs
 *.log
@@ -133,4 +130,3 @@ dist**/
 .yarn/install-state.gz
 .pnp.*
 .qodo
->>>>>>> 10fcfa438895bee7c51941b2f05b71e2dbb893fd
